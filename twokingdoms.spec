@@ -5,7 +5,7 @@ Release:	1
 Source0:	http://download1948.mediafire.com/clx5xy4yc8cg/e9djjuiqup41hjj/twokingdoms.zip
 License:	distributable
 Group:		Games/Adventure
-Url:		http://crystalshard.net/?g=3
+Url:		https://crystalshard.net/?g=3
 BuildArch:	noarch
 Requires:	ags
 BuildRequires:	icoutils
